@@ -1,10 +1,10 @@
-## A Connection between Cassandra Database And Java with SAX Parser
+## A Connection between Cassandra Database And Java with Parsing
 
 ## In this Project you will find- ##
 
-         1. Parsering Very Large XML file
+         1. Parsering Very Large XML file with Sax-Parser
          2. Write Gigabytes of Data in Cassandra database
-         3.Execute Query
+         3. Execute Query
          
 - - - -
 ## I used xml file from StackOverflow Dump file and Here is my five queries  ##
